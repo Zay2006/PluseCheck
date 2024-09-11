@@ -39,5 +39,3 @@ Add id and class attributes names that are useful in helping to your peers so th
 Next Level Flex  
 Add comments that can be used to enhance the current state of the HTML page. For example, JSDoc Comment placeholder functionality that can be picked up by other developers.  
 Target level 12 indicators on the concept rubric 
-
-
